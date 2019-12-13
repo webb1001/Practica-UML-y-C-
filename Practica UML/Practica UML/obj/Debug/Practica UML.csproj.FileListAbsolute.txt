@@ -1,0 +1,6 @@
+C:\Users\chris\Documents\GitHub\Practica-UML-y-C-\Practica UML\Practica UML\bin\Debug\Practica UML.exe.config
+C:\Users\chris\Documents\GitHub\Practica-UML-y-C-\Practica UML\Practica UML\bin\Debug\Practica UML.exe
+C:\Users\chris\Documents\GitHub\Practica-UML-y-C-\Practica UML\Practica UML\bin\Debug\Practica UML.pdb
+C:\Users\chris\Documents\GitHub\Practica-UML-y-C-\Practica UML\Practica UML\obj\Debug\Practica UML.csprojAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\Practica-UML-y-C-\Practica UML\Practica UML\obj\Debug\Practica UML.exe
+C:\Users\chris\Documents\GitHub\Practica-UML-y-C-\Practica UML\Practica UML\obj\Debug\Practica UML.pdb

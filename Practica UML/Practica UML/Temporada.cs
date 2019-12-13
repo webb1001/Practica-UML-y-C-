@@ -5,9 +5,9 @@ using System.Text;
 
 namespace Practica_UML
 {
-    public class Serie
+    public class Temporada
     {
-        public string Titulo
+        public string FechaProduccion
         {
             get => default;
             set
@@ -15,7 +15,7 @@ namespace Practica_UML
             }
         }
 
-        public int Anio
+        public string FechaEstreno
         {
             get => default;
             set
@@ -23,7 +23,7 @@ namespace Practica_UML
             }
         }
 
-        public string Sinopsis
+        public bool Empezada
         {
             get => default;
             set
@@ -31,7 +31,7 @@ namespace Practica_UML
             }
         }
 
-        public string Genero
+        public bool Cancelada
         {
             get => default;
             set
@@ -39,15 +39,17 @@ namespace Practica_UML
             }
         }
 
-        public bool Favorita
+        public void OrdenarTemporadas()
         {
-            get => default;
-            set
-            {
-            }
+            throw new System.NotImplementedException();
         }
 
-        public void SugerirSeries()
+        public void ProgresoTemporada()
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public void CancelarTemporada()
         {
             throw new System.NotImplementedException();
         }

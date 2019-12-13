@@ -5,9 +5,9 @@ using System.Text;
 
 namespace Practica_UML
 {
-    public class Serie
+    public class Usuario
     {
-        public string Titulo
+        public string Nombre
         {
             get => default;
             set
@@ -15,7 +15,7 @@ namespace Practica_UML
             }
         }
 
-        public int Anio
+        public string Apellido
         {
             get => default;
             set
@@ -23,7 +23,7 @@ namespace Practica_UML
             }
         }
 
-        public string Sinopsis
+        public string Correo
         {
             get => default;
             set
@@ -31,25 +31,12 @@ namespace Practica_UML
             }
         }
 
-        public string Genero
+        public string FechaNacimiento
         {
             get => default;
             set
             {
             }
-        }
-
-        public bool Favorita
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public void SugerirSeries()
-        {
-            throw new System.NotImplementedException();
         }
     }
 }

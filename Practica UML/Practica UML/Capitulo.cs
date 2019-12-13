@@ -5,8 +5,16 @@ using System.Text;
 
 namespace Practica_UML
 {
-    public class Serie
+    public class Capitulo
     {
+        public bool Visto
+        {
+            get => default;
+            set
+            {
+            }
+        }
+
         public string Titulo
         {
             get => default;
@@ -15,7 +23,7 @@ namespace Practica_UML
             }
         }
 
-        public int Anio
+        public float Duracion
         {
             get => default;
             set
@@ -29,27 +37,6 @@ namespace Practica_UML
             set
             {
             }
-        }
-
-        public string Genero
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public bool Favorita
-        {
-            get => default;
-            set
-            {
-            }
-        }
-
-        public void SugerirSeries()
-        {
-            throw new System.NotImplementedException();
         }
     }
 }
