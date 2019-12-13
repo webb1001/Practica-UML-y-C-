@@ -5,38 +5,35 @@ using System.Text;
 
 namespace Practica_UML
 {
-    public class Usuario
+    public class Usuario : Serie
     {
         public string Nombre
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
         public string Apellido
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
         public string Correo
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
         public string FechaNacimiento
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
+        }
+
+        public void AgregarFavorita()
+        {
+            throw new System.NotImplementedException();
         }
     }
 }

@@ -9,34 +9,26 @@ namespace Practica_UML
     {
         public bool Visto
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
         public string Titulo
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
         public float Duracion
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
         public string Sinopsis
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
     }
 }

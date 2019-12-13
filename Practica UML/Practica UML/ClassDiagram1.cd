@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="Practica_UML.Serie">
-    <Position X="4.75" Y="5.25" Width="1.5" />
+    <Position X="4.75" Y="3.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAgAAAAAAAEAAAIAIAAAAAAAAAAAQAAAABA=</HashCode>
+      <HashCode>AAAAAAAAEAgAAAAAAAEAAAKAIAAAAAAAAAAAQAAAABA=</HashCode>
       <FileName>Serie.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="Practica_UML.Temporada">
-    <Position X="2.5" Y="2.5" Width="1.5" />
+    <Position X="3" Y="1.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AIgAEAAAAAABAAAACAAAAAAABAAAAAAAAAAAAAAACAA=</HashCode>
+      <HashCode>AIgAEAQAAAABAAAACAAAAAAABAAAAAAABAAAAAAACAA=</HashCode>
       <FileName>Temporada.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -22,9 +22,9 @@
     </TypeIdentifier>
   </Class>
   <Class Name="Practica_UML.Usuario">
-    <Position X="7.25" Y="5.25" Width="1.5" />
+    <Position X="7.25" Y="3.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>EAAAAAAAAAAAAAAEAAAAgAAAAIAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>EAAAAAAAAAAAAAAEAAAAgAAAAIAAAAAAAAAAEAAAAAA=</HashCode>
       <FileName>Usuario.cs</FileName>
     </TypeIdentifier>
   </Class>

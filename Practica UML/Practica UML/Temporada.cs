@@ -9,34 +9,38 @@ namespace Practica_UML
     {
         public string FechaProduccion
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
         public string FechaEstreno
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
         public bool Empezada
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
         public bool Cancelada
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
+        }
+
+        public Capitulo Capitulos
+        {
+            get;
+            set;
+        }
+
+        public Temporada Siguiente
+        {
+            get;
+            set;
         }
 
         public void OrdenarTemporadas()

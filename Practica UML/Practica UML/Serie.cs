@@ -9,45 +9,46 @@ namespace Practica_UML
     {
         public string Titulo
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
         public int Anio
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
         public string Sinopsis
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
         public string Genero
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
         }
 
         public bool Favorita
         {
-            get => default;
-            set
-            {
-            }
+            get;
+            set;
+        }
+
+        public Temporada Primero
+        {
+            get;
+            set;
         }
 
         public void SugerirSeries()
+        {
+            throw new System.NotImplementedException();
+        }
+
+        public void AgregarCapitulos()
         {
             throw new System.NotImplementedException();
         }
